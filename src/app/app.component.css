@@ -1,0 +1,19 @@
+.container fluid{
+    font-family: 'Aquire';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 13.97px;
+    color: #FFFFFF;
+    margin-left: -130px
+}
+.login{
+    font-family: 'Aquire';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 13.97px;
+    color: #FFFFFF;
+    height: 41;
+    width: 109;
+    top: 179px;
+    left: 1378px;
+}

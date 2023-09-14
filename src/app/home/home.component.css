@@ -1,0 +1,12 @@
+.home{
+    width:1434px;
+    height: 900px;
+    top: 150px;
+    left:83px;
+    border-radius: 6px;
+}
+.home {
+background-image: url("/assets/3.png");
+height: 100%,;
+
+}    
